@@ -1,0 +1,5 @@
+Flask==3.0.3
+openai==1.23.2
+playsound==1.2.2
+Requests==2.31.0
+Werkzeug==3.0.2
