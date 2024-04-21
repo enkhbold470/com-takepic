@@ -5,7 +5,7 @@ from playsound import playsound
 
 
 # URL of the mp3 file
-url = "http://192.168.90.126:5000/speech"
+url = "http://192.168.90.251:5000/speech"
 
 # Send GET request
 response = requests.get(url)
